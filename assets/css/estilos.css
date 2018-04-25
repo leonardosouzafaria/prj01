@@ -4,6 +4,7 @@
 	font-size: 14px;	
 }
 
+
 #menuSuperior li a {
 	color: #7f8887;
 }
@@ -12,3 +13,12 @@
 	color: #585858;
 }
 
+#menuSuperior nav button {
+	width: 100%;
+	border: none;
+}
+
+#menuSuperior nav button:focus {
+	border: none;
+	outline: none;
+}
