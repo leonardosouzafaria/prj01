@@ -22,3 +22,25 @@
 	border: none;
 	outline: none;
 }
+
+/*Main*/
+.titulo {
+	color: #322fca;
+	text-transform: uppercase;
+}
+
+.subtitulo {
+	color: #7a984c;
+	text-transform: uppercase;
+}
+
+/*Main index*/
+#mainIndex {
+	background-image: url('../img/bck_indx.jpg');
+	/*background-size: 100%*/
+	padding: 20px;
+}
+
+
+
+
