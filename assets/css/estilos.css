@@ -27,20 +27,40 @@
 .titulo {
 	color: #322fca;
 	text-transform: uppercase;
+	font-size: 25px;
+	font-weight: 400;
+	margin-bottom: 0;
 }
 
 .subtitulo {
 	color: #7a984c;
 	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 0;
 }
+
 
 /*Main index*/
 #mainIndex {
 	background-image: url('../img/bck_indx.jpg');
-	/*background-size: 100%*/
+	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 20px;
 }
 
+.redes {
+	background-image: url('../img/redes.png');
+	background-repeat: no-repeat;
+	background-size: 32%;
+}
 
+.redes a:hover {
+	text-decoration: none;
+}
 
-
+.bg-menu-central {
+	background-image: url('../img/mn_flor.png');
+	background-repeat: no-repeat;
+	padding: 309px 0;
+}
