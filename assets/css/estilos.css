@@ -86,7 +86,7 @@
 /*footerIndex*/
 #footerIndex {
 	background-color: #abc5c2;
-	padding: 50px 0;
+	padding: 20px 0;
 }
 
 #footerIndex .font-footer {
@@ -95,3 +95,12 @@
 	padding-top: 20px;
 	font-weight: 400;
 }
+
+.text-azul {
+	color: #083441;
+}
+
+#footerIndex .footer-contato {
+	margin-top: 20px;
+}
+
