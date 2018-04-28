@@ -104,3 +104,16 @@
 	margin-top: 20px;
 }
 
+.bg-header {
+	background-image: url('../img/bck_pgs.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 200px;
+	padding: 20px 0;
+
+}
+
+#quem-somos .subtitulo {
+	padding-left: 30px;	
+	margin-top: 10px;
+	font-weight: 400;
+}
