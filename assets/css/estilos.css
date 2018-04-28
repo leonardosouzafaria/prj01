@@ -85,7 +85,7 @@
 
 /*footerIndex*/
 #footerIndex {
-	background-color: #abc5c2;
+	background-color: #92b7b5;
 	padding: 20px 0;
 }
 
@@ -116,4 +116,20 @@
 	padding-left: 30px;	
 	margin-top: 10px;
 	font-weight: 400;
+}
+
+.bg-azul {
+	background-color:  #92b7b5;
+}
+
+.assunto-pag {
+	margin: 20px 0;
+}
+
+.assunto-pag h2 {
+	font-size: 23px;
+}
+
+.clear-left{
+	clear: left
 }
