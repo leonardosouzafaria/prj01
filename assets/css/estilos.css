@@ -100,7 +100,7 @@
 	color: #083441;
 }
 
-#footerIndex .footer-contato {
+.footer-contato {
 	margin-top: 20px;
 }
 
@@ -132,4 +132,22 @@
 
 .clear-left{
 	clear: left
+}
+
+.container-texto {
+	padding:40px 120px;
+}
+
+#footerSubPagina .box-img {
+	height: 140px;
+}
+
+#footerSubPagina img {
+	height: 100%;
+	margin: 20px 0;
+}
+
+.copyright {
+	margin-top: 20px;
+	font-size: 12px;
 }
