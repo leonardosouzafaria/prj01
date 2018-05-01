@@ -112,6 +112,13 @@
 
 }
 
+.bg-header-curso {
+	background-image: url('../img/bck_crs.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;	
+	height: 462px;
+}
+
 #quem-somos .subtitulo {
 	padding-left: 30px;	
 	margin-top: 10px;
@@ -162,5 +169,13 @@
 
 .barra {
 	background-color: #d9e8e5;
-	height: 60px;
+	height: 70px;
+}
+
+.sombra {
+	text-shadow: 2px 2px 2px rgba(50, 50, 50, 1);
+}
+
+.font-lista {
+	font-size: 16px;
 }
